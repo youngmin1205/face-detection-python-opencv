@@ -7,4 +7,4 @@ Detect faces in videos using the face classifier of OpenCV. As videos are basica
 Use `python detect-face.py` to open the webcam and detect the faces.
 
 #### Source
-Source Tutorial: https://www.youtube.com/watch?v=7IFhsbfby9s
+Source Tutorial I followed: https://www.youtube.com/watch?v=7IFhsbfby9s
